@@ -5,7 +5,7 @@ Step 1: install node from https://nodejs.org/en/ website </br>
 Step 2: clone calculator-frontend repository </br>
 Step 3: Run npm install command </br>
 Step 4: Run npm install react-bootstrap bootstrap command </br>
-Step 5: Run npm start command </br></br></br>
+Step 5: Run npm start command </br></br>
 
 BankEnd installation process </br>
 Step 1: install composer from https://getcomposer.org/ website </br>
