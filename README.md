@@ -1,6 +1,6 @@
 # emoji-based-calculator
 
-FrontEnd installation process
+FrontEnd installation process </br>
 Step 1: install node from https://nodejs.org/en/ website 
 Step 2: clone calculator-frontend repository 
 Step 3: Run npm install command
