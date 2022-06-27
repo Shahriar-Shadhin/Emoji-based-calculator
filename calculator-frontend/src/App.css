@@ -1,0 +1,19 @@
+body{
+  background: linear-gradient(to right, #00AAFF, #00FF6c);
+  
+}
+.calculator{
+  margin: 0 auto;
+  margin-top: 5rem;
+  max-width: 60vw;
+}
+h2{
+  text-align: center;
+}
+.result{
+  margin-top: 2rem;
+  text-align: center;
+}
+.hidden{
+  display: none;
+}
